@@ -14,6 +14,7 @@ Configuration Notes:
 3. Under each server node folder, i.e. sentinel3/172.24.48.78-Master-6379/
    The file and folder structure are the same.
    There are two ways to install Redis with Sentinel:
-   a. CLI: You can run start.cmd / stop.cmd to start or stop Redis with Sentinel
+
+   a. CLI: You can run start.cmd / stop.cmd to start or stop Redis with Sentinel.
    b. Windows Service: You can run service-install.cmd / service-uninstall.cmd to install/uninstall Redis with Sentinel.
 
