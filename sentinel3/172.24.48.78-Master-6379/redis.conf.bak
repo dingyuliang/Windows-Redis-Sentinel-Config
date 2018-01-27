@@ -1,0 +1,6 @@
+# Relative to .\sentinel3
+include redis.windows.conf
+
+bind 172.24.48.78
+port 6379
+dir .\172.24.48.78-master-6379\state
